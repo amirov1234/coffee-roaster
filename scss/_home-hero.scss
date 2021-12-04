@@ -1,0 +1,57 @@
+
+.middle-part{
+    padding-top: 55px;
+}
+.inform{
+    width: 400px;
+    padding-left: 58px;
+    border-radius: 5px;
+}
+.content{
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    padding: 125px 0;
+    background-image: url(../image/photo-cofee.jpg);
+    width: 1280px;
+    margin-left: auto;
+    background-size: 1284px, 854px;
+    margin-right: auto;
+    margin-bottom: 200px;
+}
+.inform-method{
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Fraunces', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 48px;  
+    color: white;
+}
+.inform-text{
+    font-size: 15px;
+    line-height: 25px;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color: #FEFCF7;
+    opacity: 0.9;
+}
+.link-inform{
+    text-decoration: none;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Fraunces', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FEFCF7;
+    width: 217px;
+    padding: 15px 31px;
+    border-radius: 6px;
+    background-color:  #0E8784;
+}
+.link-inform:hover{
+    background-color:  #0E8784;
+    opacity: 0.5;
+}
