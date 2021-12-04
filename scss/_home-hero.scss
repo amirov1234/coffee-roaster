@@ -1,6 +1,7 @@
 
 .middle-part{
     padding-top: 55px;
+    padding: 20px;
 }
 .inform{
     width: 400px;
@@ -8,13 +9,14 @@
     border-radius: 5px;
 }
 .content{
+    padding: 20px;
     border-radius: 8px;
     background-repeat: no-repeat;
-    padding: 125px 0;
     background-image: url(../image/photo-cofee.jpg);
-    width: 1280px;
+    width: 1240px;
+    height: 600px;
+    background-size: 1280px, 834px;
     margin-left: auto;
-    background-size: 1284px, 854px;
     margin-right: auto;
     margin-bottom: 200px;
 }
@@ -54,4 +56,16 @@
 .link-inform:hover{
     background-color:  #0E8784;
     opacity: 0.5;
+}
+
+
+
+
+
+
+@media only screen and(max-width:768){
+    .content{
+        max-width: 700px;
+        width: 100%;
+    }
 }
