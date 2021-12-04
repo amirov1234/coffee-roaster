@@ -43,13 +43,15 @@
 
 
 
-@media only screen and(max-width:700) {
+@media only screen and(max-width:400) {
     .header__tree__link{
+        width: 100%;
+        max-width: 400px;
         font-family: 50px;
     }
 
     .header__tree{
-        
+margin: 0;
     }
 }
 
