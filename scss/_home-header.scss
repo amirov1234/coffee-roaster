@@ -40,3 +40,16 @@
     opacity: .5;
     border-bottom: 1px solid #83888F;
 }
+
+
+
+@media only screen and(max-width:700) {
+    .header__tree__link{
+        font-family: 50px;
+    }
+
+    .header__tree{
+        
+    }
+}
+
